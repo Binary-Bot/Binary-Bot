@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m interedted in learning Deep Learning
+- 🔭 I’m interested in learning Deep Learning
 - 🌱 I’m currently learning Machine Learning
 - 👯 I have programming experience in 
   -  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
