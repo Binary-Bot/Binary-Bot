@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m interested in learning Deep Learning
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m interested in starting my career in Software Development
+- 🌱 I’m currently learning Android Development
 - 👯 I have programming experience in 
   -  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />   
   -   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
